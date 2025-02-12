@@ -105,3 +105,5 @@ Variante dos BHAs com ação esfoliante mais controlada.
 | **AZAs** | Média | Água | Peles sensíveis, acneicas, com melasma | Anti-inflamatório, clareador, tratamento de acne e rosácea |
 
 ---
+
+Guia de Ácidos Cosméticos © 2025 by Miguel Diaz is licensed under CC BY-NC-ND 4.0 
