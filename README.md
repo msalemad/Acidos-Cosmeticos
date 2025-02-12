@@ -2,7 +2,7 @@
 
 ---
 
-## 🧪 **1. AHAs (Alfa-Hidroxiácidos)**
+## ⚡ **1. AHAs (Alfa-Hidroxiácidos)**
 **O que são?**  
 Ácidos solúveis em água que promovem renovação celular, hidratação e uniformização da pele.  
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧪 **2. BHAs (Beta-Hidroxiácidos)**
+## ⚡ **2. BHAs (Beta-Hidroxiácidos)**
 **O que são?**  
 Ácidos solúveis em óleo, ideais para peles oleosas e acneicas.  
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🧪 **3. PHAs (Poli-hidroxiácidos)**
+## ⚡ **3. PHAs (Poli-hidroxiácidos)**
 **O que são?**  
 Esfoliantes suaves com propriedades hidratantes e antioxidantes.  
 
@@ -59,7 +59,7 @@ Esfoliantes suaves com propriedades hidratantes e antioxidantes.
 
 ---
 
-## 🧪 **4. LHAs (Lipo-hidroxiácidos)**
+## ⚡ **4. LHAs (Lipo-hidroxiácidos)**
 **O que são?**  
 Variante dos BHAs com ação esfoliante mais controlada.  
 
@@ -75,7 +75,7 @@ Variante dos BHAs com ação esfoliante mais controlada.
 
 ---
 
-## 🧪 **5. AZAs (Ácido Azelaico e derivados)**
+## ⚡ **5. AZAs (Ácido Azelaico e derivados)**
 **O que são?**  
 Ácido multifuncional com propriedades anti-inflamatórias e clareadoras.  
 
@@ -90,5 +90,18 @@ Variante dos BHAs com ação esfoliante mais controlada.
 [The Ordinary Azelaic Acid 10%](https://theordinary.deciem.com/)
 
 ![The Ordinary](https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Ordinary_logo.svg)
+
+---
+
+---
+
+## **Comparação Geral**
+| Tipo de Ácido | Esfoliação | Solúvel em | Indicado para | Benefícios principais |
+|--------------|------------|------------|--------------|-----------------|
+| **AHAs** | Superficial | Água | Peles normais a secas | Hidratação, colágeno, clareamento |
+| **BHAs** | Profunda (poros) | Óleo | Peles oleosas e acneicas | Controle da oleosidade e acne |
+| **PHAs** | Superficial (suave) | Água | Peles sensíveis | Hidratação, antioxidante, menos irritação |
+| **LHAs** | Gradual | Óleo | Peles sensíveis e oleosas | Controle da oleosidade sem agressão |
+| **AZAs** | Média | Água | Peles sensíveis, acneicas, com melasma | Anti-inflamatório, clareador, tratamento de acne e rosácea |
 
 ---
