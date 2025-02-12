@@ -95,7 +95,7 @@ Variante dos BHAs com ação esfoliante mais controlada.
 
 ---
 
-## **Comparação Geral**
+## 📚 **Comparação Geral** 💻
 | Tipo de Ácido | Esfoliação | Solúvel em | Indicado para | Benefícios principais |
 |--------------|------------|------------|--------------|-----------------|
 | **AHAs** | Superficial | Água | Peles normais a secas | Hidratação, colágeno, clareamento |
